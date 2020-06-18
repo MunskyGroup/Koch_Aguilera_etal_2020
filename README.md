@@ -9,7 +9,7 @@ Amanda Koch<sup>1</sup>, Luis Aguilera<sup>2</sup>, Tatsuya Morisaki<sup>1</sup>
 
 
 <div align="center">
-    <img src="/screenshots/screen1.jpg" width="400px"</img>
+    <img src="/screenshots/GA.jpg" width="600px"</img>
 </div>
 
 For questions about the codes, please contact:  Luis.aguilera@colostate.edu and brian.munsky@colostate.edu <br/>
