@@ -8,6 +8,10 @@ Amanda Koch<sup>1</sup>, Luis Aguilera<sup>2</sup>, Tatsuya Morisaki<sup>1</sup>
 <sup>3</sup> World Research Hub Initiative, Institute of Innovative Research, Tokyo Institute of Technology, Yokohama, Kanagawa 226-8503, Japan. <br/>
 
 
+<div align="center">
+    <img src="/screenshots/screen1.jpg" width="400px"</img>
+</div>
+
 For questions about the codes, please contact:  Luis.aguilera@colostate.edu and brian.munsky@colostate.edu <br/>
 
 ---
