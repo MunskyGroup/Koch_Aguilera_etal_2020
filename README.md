@@ -9,7 +9,7 @@ Amanda Koch<sup>1</sup>, Luis Aguilera<sup>2</sup>, Tatsuya Morisaki<sup>1</sup>
 
 
 <div align="center">
-    <img src="https://github.com/MunskyGroup/Koch_Aguilera_etal_2020/blob/master/GA.jpg" width="600px"</img>
+    <img ![Image](../blob/master/GA.jpg?raw=true) width="600px"</img>
 </div>
 
 For questions about the codes, please contact:  Luis.aguilera@colostate.edu and brian.munsky@colostate.edu <br/>
