@@ -1,0 +1,33 @@
+0.046391
+0.053026
+0.18392
+9.7505e-05
+0.0018366
+5.5506e-05
+0.0027474
+9.7505e-05   (REM)
+0.0018366    (REM)
+0.0010192
+0.0027474    (REM)
+
+'ki_{cap}', 
+'ki_{ires}',
+'k_{e}',
+'k_{12}',
+'k_{21}',
+'k_{13}',
+'k_{31}',
+'k_{34}', - 
+'k_{43}', -
+'k_{24}', 
+'k_{42}' -
+
+k_INIT_C= param.ki_CAP
+k_INIT_I= param.ki_IRES
+k_e = param.ke_avg
+k_ON_C = param.k12
+k_OFF_C = param.k21
+k_ON_I = param.k13
+k_OFF_I = param.k31
+k_p_ON_I = param.k24
+    
